@@ -1,1 +1,16 @@
 
+.container{
+    border: 2px solid black;
+}
+.img{
+    width: 200px;
+}
+#block{
+    float: right
+    clear:both;
+    
+}
+.para{
+    float: right;
+    overflow: auto;
+}
